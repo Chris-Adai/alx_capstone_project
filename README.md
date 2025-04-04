@@ -1,2 +1,4 @@
 # alx_capstone_project
-i created this repo. but most of my work and errors were done offline
+To the alx reviewers,
+kindly note that i just created this repo. but most of my work and errors were done offline.
+Thanks
